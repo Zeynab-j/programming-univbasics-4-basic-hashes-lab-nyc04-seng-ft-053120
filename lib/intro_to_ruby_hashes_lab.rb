@@ -4,7 +4,8 @@ hash
 end
 
 def my_hash
-
+my_hash = {name: "ali" => age: 32}
+my_hash
 end
 
 def pioneer

@@ -1,7 +1,7 @@
 def new_hash
 hash = {}
 hash
-end 
+end
 
 def my_hash
 

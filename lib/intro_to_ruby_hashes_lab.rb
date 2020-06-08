@@ -2,7 +2,7 @@ def new_hash
 hash = {}
 
 def my_hash
-my_hash = {name: "ali" , age: 32}
+my_hash = {name: "ali" => age: 32}
 end
 
 def pioneer

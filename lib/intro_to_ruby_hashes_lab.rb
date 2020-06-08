@@ -1,9 +1,8 @@
 def new_hash
-  # return an empty hash
-end
+hash = {}
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+my_hash = {name: "ali" , age: 32}
 end
 
 def pioneer
